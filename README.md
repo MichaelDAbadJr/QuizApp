@@ -4,7 +4,8 @@
 
 This Quiz App allows users to test their knowledge by answering a series of questions with a time limit. The app tracks answers, evaluates performance, and provides a detailed summary at the end. Built using React, the project demonstrates state management, dynamic rendering of questions, and timed interactions.
 
-<a href="https://junmike-quiz.netlify.app/" target="_blank">View Live Demo</a><br>
+<a href="https://junmike-quiz.netlify.app/" target="_blank">View Live Demo</a>
+</br>
 <img src="https://raw.githubusercontent.com/MichaelDAbadJr/assets/refs/heads/main/Quiz-Cover.jpg" width="500">
 
 ## Features
